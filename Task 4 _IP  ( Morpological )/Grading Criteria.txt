@@ -1,0 +1,12 @@
+run the code on "test.png"
+
+the results should be:
+a)13 or 0.13
+b)11
+c)5
+d)4
+e)7
+f)if number then it is 3, if displayed then check the squares that have holes
+g)if number then it is 3, if displayed then check the circles that have no holes
+
+ignore the first result (a) and count the other correct results out of 6 then divide by 2
